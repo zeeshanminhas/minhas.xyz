@@ -1,0 +1,23 @@
+# Site settings
+title: Boilerplate
+tagline: Boilerplate code for hosting a static holding page on GitHub pages
+
+url: "" # the base hostname & protocol for your site
+
+# Used for theme in head.html, cannot be used in Stylus files
+color-primary: "#263238"
+
+# contact
+author:
+  name: Dan Buckland
+  url: http://github.com/danbuckland
+
+twitter_username: danbuckland
+github_username:  danbuckland
+github_url: "https://github.com/danbuckland/jekyll-holding-page-boilerplate"
+
+# Others
+markdown: redcarpet
+
+# Exclude Stylus files, nodemodules, and gulpfile
+exclude: [node_modules, gulpfile.js, styl, npm-debug.log, Gemfile, Gemfile.lock, LICENSE, README.md, package.json]
