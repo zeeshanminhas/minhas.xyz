@@ -1,6 +1,6 @@
 # Site settings
-title: Boilerplate
-tagline: Boilerplate code for hosting a static holding page on GitHub pages
+title: Zeeshan Minhas
+tagline: Prestige Worldwide
 
 url: "" # the base hostname & protocol for your site
 
@@ -9,12 +9,12 @@ color-primary: "#263238"
 
 # contact
 author:
-  name: Dan Buckland
-  url: http://github.com/danbuckland
+  name: Zeeshan Minhas
+  url: http://github.com/zeeshanminhas
 
-twitter_username: danbuckland
-github_username:  danbuckland
-github_url: "https://github.com/danbuckland/jekyll-holding-page-boilerplate"
+twitter_username: minhaszeeshan
+github_username:  minhaszeeshan
+github_url: "https://github.com/minhaszeeshan/minhas.xyz"
 
 # Others
 markdown: redcarpet
